@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Google Analytics
 
 You can use the [editor on GitHub](https://github.com/veerendra-annigere/googleanalytics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
